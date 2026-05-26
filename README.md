@@ -1,3 +1,4 @@
+魔改Cosyvoice3，实现qwen2.5-1.5B -Cosyvoice3的低延时流式输出
 # 环境配置详细教程 [B站](https://www.bilibili.com/video/BV1HucueQEJo/)
 
 0. anaconda\ffmpeg安装
